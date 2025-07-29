@@ -129,51 +129,51 @@
 import CardCarrosel from '@/components/CardCarrosel.vue';
 
 const fastengImages = [
-    'src/assets/fasteng01.jpg',
-    'src/assets/fasteng02.jpg',
-    'src/assets/fasteng03.jpg',
-    'src/assets/fasteng04.jpg'
+    '../../public/assets/fasteng01.jpg',
+    '../../public/assets/fasteng02.jpg',
+    '../../public/assets/fasteng03.jpg',
+    '../../public/assets/fasteng04.jpg'
 ];
 
 const airbnbImages = [
-    'src/assets/airbnb01.jpg',
-    'src/assets/airbnb02.jpg',
-    'src/assets/airbnb03.jpg'
+    '../../public/assets/airbnb01.jpg',
+    '../../public/assets/airbnb02.jpg',
+    '../../public/assets/airbnb03.jpg'
 ];
 
 const stocksImages = [
-    'src/assets/stocks01.jpg',
-    'src/assets/stocks02.jpg',
+    '../../public/assets/stocks01.jpg',
+    '../../public/assets/stocks02.jpg',
 ]
 
 const githubImages = [
-    'src/assets/github01.jpg',
-    'src/assets/github02.jpg',
+    '../../public/assets/github01.jpg',
+    '../../public/assets/github02.jpg',
 ]
 
 const shoppingImages = [
-    'src/assets/shopping01.jpg',
-    'src/assets/shopping02.jpg',
-    'src/assets/shopping03.jpg',
-    'src/assets/shopping04.jpg'
+    '../../public/assets/shopping01.jpg',
+    '../../public/assets/shopping02.jpg',
+    '../../public/assets/shopping03.jpg',
+    '../../public/assets/shopping04.jpg'
 ];
 
 const coffeeImages = [
-    'src/assets/coffee01.jpg',
-    'src/assets/coffee02.jpg',
+    '../../public/assets/coffee01.jpg',
+    '../../public/assets/coffee02.jpg',
 ]
 
 const cdcImages = [
-    'src/assets/cdc01.jpg',
-    'src/assets/cdc02.jpg',
-    'src/assets/cdc03.jpg',
-    'src/assets/cdc04.jpg',
-    'src/assets/cdc05.jpg',
-    'src/assets/cdc06.jpg',
-    'src/assets/cdc07.jpg',
-    'src/assets/cdc08.jpg',
-    'src/assets/cdc09.jpg',
-    'src/assets/cdc10.jpg'
+    '../../public/assets/cdc01.jpg',
+    '../../public/assets/cdc02.jpg',
+    '../../public/assets/cdc03.jpg',
+    '../../public/assets/cdc04.jpg',
+    '../../public/assets/cdc05.jpg',
+    '../../public/assets/cdc06.jpg',
+    '../../public/assets/cdc07.jpg',
+    '../../public/assets/cdc08.jpg',
+    '../../public/assets/cdc09.jpg',
+    '../../public/assets/cdc10.jpg'
 ]
 
 </script>
