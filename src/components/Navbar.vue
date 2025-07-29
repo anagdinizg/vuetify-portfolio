@@ -1,6 +1,6 @@
 <template>
     <div>
-        <v-navigation-drawer permanent v-model="isDrawerOpen">
+        <v-navigation-drawer v-model="isDrawerOpen" app temporary>
             <v-list>
                 <v-list-subheader>Menu</v-list-subheader>
 
