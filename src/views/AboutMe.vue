@@ -3,7 +3,7 @@
         <v-row justify="center">
             <v-col cols="12" md="4">
                 <v-avatar size="200" class="mx-auto mb-4">
-                    <v-img src="../../public/assets/profile.jpg" class="rounded-circle" cover />
+                    <v-img src="/assets/profile.jpg" class="rounded-circle" cover />
                 </v-avatar>
                 <h1 class="text-h5 font-weight-bold">Ana Gabriela Diniz Gusmão</h1>
                 <p class="text-subtitle-1">Software Developer</p>
