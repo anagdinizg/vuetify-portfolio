@@ -1,5 +1,5 @@
 <template>
-    <v-chip :color="color" class="my-1 mr-2">
+    <v-chip :color="color" class="my-1 mr-2 text-h6">
         {{ text }}
     </v-chip>
 </template>

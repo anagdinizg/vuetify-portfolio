@@ -36,7 +36,7 @@
 
         <v-app-bar flat class="border-b">
             <v-app-bar-nav-icon @click="isDrawerOpen = !isDrawerOpen"></v-app-bar-nav-icon>
-            <v-app-bar-title>Hello! Let's find out together who Ana Gusmão is</v-app-bar-title>
+            <v-app-bar-title>Ana Gusmão's Portfolio</v-app-bar-title>
 
             <template #append>
                 <v-btn size="35" icon href="https://www.linkedin.com/in/anagdinizg/" target="blank" color="primary">
